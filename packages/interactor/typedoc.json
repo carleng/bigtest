@@ -1,8 +1,0 @@
-{
-  "out": "docs",
-  "name": "@bigtest/interactor",
-  "entryPoints": "src/index.ts",
-  "readme": "API.md",
-  "includeVersion": true,
-  "excludePrivate": true
-}

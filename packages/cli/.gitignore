@@ -1,7 +1,0 @@
-/tmp
-/node_modules
-/yarn-error.log
-.node-version
-.cache
-.bigtest
-tmp

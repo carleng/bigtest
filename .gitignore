@@ -1,8 +1,4 @@
 node_modules
 yarn-error.log
-/packages/*/dist
-/packages/*/docs
-*.tsbuildinfo
-
-# Local Netlify folder
-.netlify
+.node-version
+.cache

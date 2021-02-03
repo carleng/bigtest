@@ -1,7 +1,0 @@
-{
-  "out": "docs",
-  "name": "@bigtest/suite",
-  "entryPoints": "src/index.ts",
-  "readme": "API.md",
-  "includeVersion": true
-}
