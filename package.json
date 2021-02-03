@@ -1,6 +1,6 @@
 {
   "name": "performance-ponyfill",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Cross platform interface to the DOM performance API",
   "main": "node-ponyfill.js",
   "browser": "browser-ponyfill.js",

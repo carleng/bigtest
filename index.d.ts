@@ -1,4 +1,4 @@
-declare module "@bigtest/performance" {
+declare module "performance-ponyfill" {
   var performance: Performance;
 
   var PerformanceObserver: {
